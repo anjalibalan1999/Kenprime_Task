@@ -1,4 +1,4 @@
-# change the mysql database password and username 
+# Change the mysql database password and username 
 
 # make sure to migrate the models using this commands
   python manage.py makemigrations
